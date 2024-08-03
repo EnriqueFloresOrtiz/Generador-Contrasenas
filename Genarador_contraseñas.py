@@ -1,5 +1,5 @@
 import random
-palabra = "enrique"
+palabra = input("Ingresa tu nombre : ")
 
 def Letras_palabra_random(palabra):
     palabra = list(palabra)
